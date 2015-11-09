@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Where Am I</string>
+    <string name="hint_api_id">Enter API ID</string>
+    <string name="button_current_location">Current Location</string>
+    <string name="server_retrieve">Retrieving&#8230;</string>
+    <string name="server_retrieve_error">Error in Retrieving Location from Server</string>
+    <string name="search_nocmuap_error">No CMU APs near You</string>
+
+</resources>
